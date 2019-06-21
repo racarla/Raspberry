@@ -1,9 +1,9 @@
 # Raspberry
 ## Requirements
 ### Electronics
-Raspberry Pi
-SD Card 4 Gb minimum
-USB 4 Gb minimum
+- Raspberry Pi
+- SD Card 4 Gb minimum
+- USB 4 Gb minimum
 ### OS Image
 2019-04-08-raspbian-stretch-lite - 21/06/2019
 ## Steps
