@@ -3,6 +3,7 @@
 ### Electronics
 Raspberry Pi
 SD Card 8 Gb minimum
+USB 4 Gb minimum
 ### OS Image
 DietPi - 21/06/2019
 ## Steps
