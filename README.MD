@@ -57,7 +57,7 @@ That's it, this should already work.
 
 
 ## URL
-https://dietpi.com/
-https://dietpi.com/phpbb/viewtopic.php?f=8&t=9#p9
-https://www.raspberrypi.org/documentation/configuration/security.md
+- https://dietpi.com/
+- https://dietpi.com/phpbb/viewtopic.php?f=8&t=9#p9
+- https://www.raspberrypi.org/documentation/configuration/security.md
 
