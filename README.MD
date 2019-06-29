@@ -9,12 +9,13 @@
 ## Steps
 ### Step 1
 Install the operative system in the sd card. (Etcher)
-### Step Optional
-Config raspberry pi to enable some settings
 ### Step 2
+Config raspberry pi to enable some settings like ssh.
+### Step 3
+https://www.maketecheasier.com/boot-up-raspberry-pi-3-external-hard-disk/
 Connect USB to raspberry
-Connect to raspberry pi with ssh
-Make a usb ext4 and make swap in diet-config -> Advanced Options -> Swapfile
+Connect to raspberry pi
+### 
 
 ### Step 3
 Install docker on raspberry
