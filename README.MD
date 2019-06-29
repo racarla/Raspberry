@@ -17,6 +17,7 @@ check partuid with 'blkid'
 https://www.maketecheasier.com/boot-up-raspberry-pi-3-external-hard-disk/
 Connect USB to raspberry
 Connect to raspberry pi
+'df' to check partition table
 ### 
 
 ### Step 3
