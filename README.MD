@@ -5,7 +5,8 @@
 - SD Card 4 Gb minimum
 - USB 4 Gb minimum
 ### OS Image
-2019-04-08-raspbian-stretch-lite - 21/06/2019
+Raspbian Buster Lite [Raspbian](https://downloads.raspberrypi.org/raspbian_lite_latest)
+
 ## Steps
 ### Step 1
 Install the operative system in the sd card. (Etcher)
