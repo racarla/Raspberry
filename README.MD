@@ -40,5 +40,6 @@ Install docker on raspberry
 - https://www.raspberrypi.org/documentation/remote-access/ssh/ 
 - https://www.raspberrypi.org/documentation/configuration/security.md
 - https://opensource.com/article/18/7/how-check-free-disk-space-linux
+- https://raspberrypi.stackexchange.com/questions/78291/is-it-possible-to-use-partition-uuid-for-root-parameter-in-cmdline-txt
 
 
