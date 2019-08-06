@@ -1,9 +1,10 @@
 # Raspberry
 ## Requirements
 ### Electronics
-- Raspberry Pi
-- SD Card 4 Gb minimum
-- USB 4 Gb minimum
+- Raspberry Pi 3 Model B
+- (SDCARD1) SD Card 4 Gb minimum 
+- (Optional) USB 4 Gb minimum
+- (SDCARD2) (Optional - Recycle or old) SD 1 or 2 GB for boot partition
 ### OS Image
 [Raspbian Buster Lite -  2019-07-10](https://downloads.raspberrypi.org/raspbian_lite_latest)
 
