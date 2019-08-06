@@ -39,5 +39,6 @@ Install docker on raspberry
 - https://www.raspberrypi.org/downloads/raspbian/
 - https://www.raspberrypi.org/documentation/remote-access/ssh/ 
 - https://www.raspberrypi.org/documentation/configuration/security.md
+- https://opensource.com/article/18/7/how-check-free-disk-space-linux
 
 
