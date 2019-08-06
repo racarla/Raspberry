@@ -2,18 +2,22 @@
 ## Requirements
 ### Electronics
 - Raspberry Pi 3 Model B
-- (SDCARD1) SD Card 4 Gb minimum 
+- SD Card 4 Gb minimum, for install OS (SDCARD1) 
+- HDD USB 2.0
 - (Optional) USB 4 Gb minimum
-- (SDCARD2) (Optional - Recycle or old) SD 1 or 2 GB for boot partition
+- (Optional - Recycle or old) SD 1 or 2 GB for boot partition (SDCARD2) 
 ### OS Image
 [Raspbian Buster Lite -  2019-07-10](https://downloads.raspberrypi.org/raspbian_lite_latest)
 
-## Steps
+## Steps for install and connect to Raspberry
 ### Step 1
 Install the operative system in the sd card with Etcher. (SDCARD1)
 ### Step 2
 Config raspberry pi to enable some settings like ssh. Make a blank file without extension with the name 'ssh'.
 ### Step 3
+Connect to Raspberry with ssh client like putty (Windows) or ssh cli terminal client (Linux).
+
+## Steps for boot Up Raspberry Pi 3 from External Hard Disk
 
 ### Step 3
 - 'fdisk' to format a partition
