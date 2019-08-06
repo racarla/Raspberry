@@ -5,7 +5,7 @@
 - SD Card 4 Gb minimum
 - USB 4 Gb minimum
 ### OS Image
-Raspbian Buster Lite [Raspbian](https://downloads.raspberrypi.org/raspbian_lite_latest)
+[Raspbian Buster Lite -  2019-07-10](https://downloads.raspberrypi.org/raspbian_lite_latest)
 
 ## Steps
 ### Step 1
