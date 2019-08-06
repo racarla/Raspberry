@@ -37,5 +37,7 @@ Install docker on raspberry
 
 ## URL
 - https://www.raspberrypi.org/downloads/raspbian/
+- https://www.raspberrypi.org/documentation/remote-access/ssh/ 
 - https://www.raspberrypi.org/documentation/configuration/security.md
+
 
