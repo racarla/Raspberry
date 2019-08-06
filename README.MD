@@ -14,6 +14,8 @@ Install the operative system in the sd card with Etcher. (SDCARD1)
 ### Step 2
 Config raspberry pi to enable some settings like ssh. Make a blank file without extension with the name 'ssh'.
 ### Step 3
+
+### Step 3
 - 'fdisk' to format a partition
 - check partuid with 'blkid'
 - https://www.maketecheasier.com/boot-up-raspberry-pi-3-external-hard-disk/
