@@ -10,7 +10,7 @@
 
 ## Steps
 ### Step 1
-Install the operative system in the sd card. (Etcher)
+Install the operative system in the sd card with Etcher. (SDCARD1)
 ### Step 2
 Config raspberry pi to enable some settings like ssh.
 ### Step 3
